@@ -12,7 +12,7 @@ function NFLMap({ stadiums }) {
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
       />
       {stadiums.map(stadium => (
-        <Marker key={stadium.name} position={[stadium.lat, stadium.lng]}>
+        <Marker key={stadium.team} position={[stadium.lat, stadium.lng]}>
           <Popup>
             <div>
               <h3>{stadium.name}</h3>
