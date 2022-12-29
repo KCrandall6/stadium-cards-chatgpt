@@ -3,192 +3,224 @@
     {
       "name": "MetLife Stadium",
       "team": "New York Giants",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/NYG",
       "lat": 40.81,
       "lng": -74.07
     },
     {
       "name": "Allegiant Stadium",
       "team": "Las Vegas Raiders",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/LV",
       "lat": 36.0909,
       "lng": -115.1833
     },
     {
       "name": "AT&T Stadium",
       "team": "Dallas Cowboys",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/DAL",
       "lat": 32.747778,
       "lng": -97.092778
     },
     {
       "name": "Hard Rock Stadium",
       "team": "Miami Dolphins",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/MIA",
       "lat": 25.9580,
       "lng": -80.2389
     },
     {
       "name": "Levi's Stadium",
       "team": "San Francisco 49ers",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/SF",
       "lat": 37.4033,
       "lng": -121.9694
     },
     {
       "name": "State Farm Stadium",
       "team": "Arizona Cardinals",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/ARI",
       "lat": 33.5276,
       "lng": -112.2626
     },
     {
       "name": "Acrisure Stadium",
       "team": "Pittsburg Steelers",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/PIT",
       "lat": 40.4468,
       "lng": -80.0158
     },
     {
       "name": "U.S. Bank Stadium",
       "team": "Minnesota Vikings",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/MIN",
       "lat": 44.9736,
       "lng": -93.2575
     },
     {
       "name": "Arrowhead Stadium",
       "team": "Kansas City Chiefs",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/KC",
       "lat": 39.0489,
       "lng": -94.4839
     },
     {
       "name": "Lambeau Field",
       "team": "Green Bay Packers",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/GB",
       "lat": 44.501389,
       "lng": -88.063056
     },
     {
       "name": "Gillette Stadium",
       "team": "New England Patriots",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/NE",
       "lat": 42.090944,
       "lng": -71.264344
     },
     {
       "name": "Soldier Field",
       "team": "Chicago Bears",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CHI",
       "lat": 41.862356,
       "lng": -87.616667
     },
     {
       "name": "Mercedes-Benz Stadium",
       "team": "Atlanta Falcons",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/ATL",
       "lat": 33.7553,
       "lng": -84.4006
     },
     {
       "name": "Lincoln Financial Field",
       "team": "Philadelphia Eagles",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/PHI",
       "lat": 39.9014,
       "lng": -75.1675
     },
     {
       "name": "Highmark Stadium",
       "team": "Buffalo Bills",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/BUF",
       "lat": 42.7738,
       "lng": -78.7870
     },
     {
       "name": "Raymond James Stadium",
       "team": "Tampa Bay Buccaneers",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/TB",
       "lat": 27.9759,
       "lng": -82.5033
     },
     {
       "name": "Lumen Field",
       "team": "Seattle Seahawks",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/SEA",
       "lat": 47.5952,
       "lng": -122.3316
     },
     {
       "name": "NRG Stadium",
       "team": "Houston Texans",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/HOU",
       "lat": 29.6847,
       "lng": -95.4107
     },
     {
       "name": "Ceasars Superdome",
       "team": "New Orleans Saints",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/NO",
       "lat": 29.9511,
       "lng": -90.0812
     },
     {
       "name": "Nissan Stadium",
       "team": "Tennessee Titans",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/TEN",
       "lat": 36.1665,
       "lng": -86.7713
     },
     {
       "name": "Ford Field",
       "team": "Detroit Lions",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/DET",
       "lat": 42.34,
       "lng": -83.0456
     },
     {
       "name": "FedEx Field",
       "team": "Washington Commanders",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/WAS",
       "lat": 38.9077,
       "lng": -76.8645
     },
     {
       "name": "Empower Field at Mile High",
       "team": "Denver Broncos",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/DEN",
       "lat": 39.7439,
       "lng": -105.0201
     },
     {
       "name": "Bank of America Stadium",
       "team": "Carolina Panthers",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CAR",
       "lat": 35.2258,
       "lng": -80.853
     },
     {
       "name": "Paycor Stadium",
       "team": "Cincinnati Bengals",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CIN",
       "lat": 39.0955,
       "lng": -84.5161
     },
     {
       "name": "M&T Bank Stadium",
       "team": "Baltimore Ravens",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/BAL",
       "lat": 39.2780,
       "lng": -76.6227
     },
     {
       "name": "Lucas Oil Stadium",
       "team": "Indianapolis Colts",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/IND",
       "lat": 39.7601,
       "lng": -86.1639
     },
     {
       "name": "TIAA Bank Field",
       "team": "Jacksonville Jaguars",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/JAX",
       "lat": 30.3239,
       "lng": -81.6373
     },
     {
       "name": "FirstEnergy Stadium",
       "team": "Cleveland Browns",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CLE",
       "lat": 41.5061,
       "lng": -81.6995
     },
     {
       "name": "SoFi Stadium",
       "team": "Los Angeles Chargers",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/LAC",
       "lat": 33.9532,
       "lng": -118.3385
     },
     {
       "name": "SoFi Stadium",
       "team": "Los Angeles Rams",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/LA",
       "lat": 33.9532,
       "lng": -118.3385
     },
     {
       "name": "MetLife Stadium",
       "team": "New York Jets",
+      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/NYJ",
       "lat": 40.81,
       "lng": -74.07
     }

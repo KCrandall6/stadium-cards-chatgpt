@@ -1,6 +1,6 @@
 import React from 'react';
-import NFLMap from './NFLMap';
 import useFetchStadiums from './useFetchStadiums';
+import NFLStadiumMap from './NFLStadiumMap';
 
 
 const Home = () => {
@@ -9,7 +9,7 @@ const Home = () => {
 
   return (
     <div className="p-3">
-      <NFLMap stadiums={stadiums}/>
+      <NFLStadiumMap stadiums={stadiums}/>
     </div>
   )
 }
