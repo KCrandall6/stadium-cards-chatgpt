@@ -33,7 +33,7 @@ const NFLStadiumMap = ( {stadiums} ) => {
         {stadiums.map((stadium) => (
           <Carousel.Item key={stadium.team}>
             <img
-              className="d-block mx-auto pb-5 mb-5"
+              className="d-block mx-auto img-fluid pb-5 mb-5"
               src={stadium.logo}
               alt={stadium.name}
             />
