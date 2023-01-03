@@ -1,5 +1,7 @@
 # NFL Stadium Cards App Generated Through ChatGPT
 
+Check out the deployed site: [https://joyful-lebkuchen-e9a746.netlify.app/](https://joyful-lebkuchen-e9a746.netlify.app/)
+
 The main component of this app, the map with the rotating carousel, was generated through a prompt given through ChatGPT AI. Minor tweaks were needed in the code for it to perform correctly as intended. To see the minor changed needed, check out this [Medium article](https://medium.com/@kcrandall67/how-easy-is-it-creating-a-web-app-using-chatgpt-3e186ff42a60). 
 
 The generated React component is located withing the [NFLStadiumMap.jsx](https://github.com/KCrandall6/stadium-cards-chatgpt/blob/main/src/NFLStadiumMap.jsx) component.
